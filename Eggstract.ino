@@ -11,12 +11,12 @@
 #include <addons/TokenHelper.h>
 #include <addons/RTDBHelper.h>
 
-#define FIREBASE_HOST "testeggstract-d27ef-default-rtdb.firebaseio.com"
-#define FIREBASE_AUTH "Xx6Z3zvSViWrPMPsTy3OhbKwdD0icRqRhtyVFx5d"
+#define FIREBASE_HOST "your_firebase_host"
+#define FIREBASE_AUTH "your_firebase_auth"
 // #define WIFI_SSID "Yad"
 // #define WIFI_PASSWORD "Yad12345"
 
-#define API_KEY "AIzaSyCv0-F2zacFaFeiTwtxfzhO90oEWaqwlpg"
+#define API_KEY "your_api_key"
 
 FirebaseData fbdo;
 
